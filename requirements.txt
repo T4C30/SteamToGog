@@ -1,2 +1,4 @@
 pyinstaller
 requests
+discord-webhook
+rich
