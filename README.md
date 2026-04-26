@@ -1,3 +1,10 @@
+# Proyecto Archivado
+Se ha cambiado de lenguaje:
+- Python -> Nim
+
+Y gestor de repositorio: 
+- [SteamToGog](https://codeberg.org/T4C30/SteamToGog)
+
 # Instruciones
 ## Requirementos
 - python
